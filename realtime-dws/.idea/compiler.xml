@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="realtime-dws-user-user-register-window" />
+        <module name="realtime-dws-traffic-home-detail-page-view-window" />
+        <module name="realtime-dws-traffic-vc-ch-ar-is_new-page-view-window" />
+        <module name="realtime-dws-trade-sku-order-window" />
+        <module name="realtime-dws-traffic-source-keyword-page-view-window" />
+        <module name="realtime-dws-user-user-login-window" />
+        <module name="realtime-dws-trade-province-order-window" />
+        <module name="realtime-dws-trade-cart-add-uu-window" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
