@@ -1,9 +1,9 @@
-package com.atguigu.gmall.realtime.dim.app;
+package com.joe.gmall.realtime.dim.app;
 
 
 import com.alibaba.fastjson.JSONObject;
 import com.joe.gmall.realtime.common.app.BaseAPP;
-import com.joe.gmall.realtime.common.bean.TableProcessDim;
+import com.joe.gmall.realtime.common.bean.TableProcessDim1;
 import com.joe.gmall.realtime.common.constant.Constant;
 import com.joe.gmall.realtime.common.util.FlinkSourceUtil;
 import com.joe.gmall.realtime.common.util.HBaseUtil;
